@@ -1,7 +1,7 @@
-# AI 선비 공식 사이트
+# AI 선비 대표 주소
 
-https://ai-seonbi.github.io/
+https://ai-seonbi.github.io/ 는 현재 스킬 목록 https://ai-seonbi.github.io/skills/ 로 연결합니다.
 
-HTML·글꼴·갓 로고로 구성한 정적 사이트입니다. GitHub Pages는 main 브랜치의 루트에서 배포합니다.
+스킬별 안내는 `/skills/<skill-name>/`에서 관리합니다. 디자인 자료 주소는 https://ai-seonbi.github.io/skills/design-guide/ 입니다.
 
-스킬 원본과 버전별 다운로드는 https://github.com/ai-seonbi/skills 에서 관리합니다. 사이트를 이전할 때도 해당 설치·다운로드 주소는 유지할 수 있습니다.
+목록과 개별 페이지 원본은 https://github.com/ai-seonbi/skills 의 `docs/`에 있습니다. 이 저장소는 main 브랜치 루트에서 대표 주소의 연결 페이지만 배포합니다.
